@@ -1,5 +1,3 @@
-# trabalho-do-Ot-vio-
-trabalhi de IA sustentabilidade 
 Inteligência Artificial e Sustentabilidade Ambiental: oportunidades, riscos e o custo energético dos grandes modelos
 Tema
 Inteligência Artificial e Sustentabilidade Ambiental: o uso da IA na otimização de recursos naturais, no combate às alterações climáticas e na previsão de riscos ambientais, e o contrabalanço com o consumo energético dos grandes modelos de IA.
@@ -36,4 +34,7 @@ O consumo energético dos grandes modelos de IA e seu contrabalanço
 Considerações finais
 Referências e Apêndice A (declaração de uso de inteligência artificial).
 Declaração de uso de IA
-Uso: pesquisa de fontes, redação da primeira versão do texto, formatação ABNT e elaboração das referências
+Ferramenta: Claude (modelo Claude Opus 5.5), da Anthropic, em 17/11/2026.
+Uso: pesquisa de fontes, redação da primeira versão do texto, formatação ABNT e elaboração das referências.
+Prompts: descritos integralmente no Apêndice A do e-book.
+Revisão do grupo: [PREENCHER — o que cada integrante revisou, conferiu ou reescreveu].
