@@ -37,4 +37,4 @@ Declaração de uso de IA
 Ferramenta: Claude (modelo Claude Opus 5.5), da Anthropic, em 17/11/2026.
 Uso: pesquisa de fontes, redação da primeira versão do texto, formatação ABNT e elaboração das referências.
 Prompts: descritos integralmente no Apêndice A do e-book.
-Revisão do grupo: [PREENCHER — o que cada integrante revisou, conferiu ou reescreveu].
+
